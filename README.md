@@ -1,3 +1,15 @@
+# Next.js 13 Template
+
+This template provides a more optimized starting point for Next.js using the App router with enhanced DX for TailwindCSS.
+
+It incorporates [`clsx`](https://www.npmjs.com/package/clsx) and [`tailwind-merge`](https://www.npmjs.com/package/tailwind-merge) to handle conditional Tailwind classes and predictably resolve class conflicts.
+
+A barebones dark-mode toggle is implemented using [`next-themes`](https://www.npmjs.com/package/next-themes).
+
+---
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
