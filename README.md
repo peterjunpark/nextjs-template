@@ -1,6 +1,6 @@
 # Next.js 13 Template
 
-This template provides a more optimized starting point for Next.js using the App router with enhanced DX for TailwindCSS.
+This template provides a more optimized starting point for Next.js using the [App router](https://nextjs.org/docs/app) with enhanced DX for TailwindCSS.
 
 It incorporates [`clsx`](https://www.npmjs.com/package/clsx) and [`tailwind-merge`](https://www.npmjs.com/package/tailwind-merge) to handle conditional Tailwind classes and predictably resolve class conflicts.
 
